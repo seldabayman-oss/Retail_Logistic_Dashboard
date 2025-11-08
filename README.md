@@ -76,5 +76,3 @@ Shipping method efficiency varies by country
 ## 📌 Note
 Dataset originally sourced from Kaggle [(https://www.kaggle.com/datasets/pushpitkamboj/logistics-data-containing-real-world-data)]. Cleaned and modeled in Power BI.
 Model language: Turkish, but report visuals are designed in English.
-Dataset originally sourced from Kaggle [(https://www.kaggle.com/datasets/pushpitkamboj/logistics-data-containing-real-world-data)]. Cleaned and modeled in Power BI.
-Model language: Turkish, but report visuals are designed in English.
